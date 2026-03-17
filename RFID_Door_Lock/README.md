@@ -4,6 +4,12 @@ A contactless access control system built with an Arduino Uno and the RC522 RFID
 
 This is the same core technology behind office access cards, hotel room keys, contactless payment systems, and public transport cards — built from scratch on a breadboard.
 
+![RFID Door Lock Setup](rfid-setup-overview.jpg)
+
+![Breadboard Wiring](rfid-breadboard-wiring.jpg)
+
+https://github.com/user-attachments/assets/rfid-door-lock-demo.mp4
+
 ## Features
 
 - Auto-registers the first RFID card scanned as the master credential
