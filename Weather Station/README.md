@@ -2,7 +2,9 @@
 
 A simple IoT weather station built with an Arduino Uno that reads temperature and humidity from a DHT11 sensor and displays the data on a 16x2 LCD screen.
 
-![Weather Station](IMG_3274.jpg)
+![Weather Station](weather-station-setup.jpg)
+
+https://github.com/user-attachments/assets/weather-station-demo.mov
 
 ## Features
 
