@@ -8,7 +8,7 @@ A growing collection of Internet of Things projects built with the Arduino Uno. 
 |---|---------|-------------|--------|
 | 01 | [Weather Station](01-weather-station/) | Temperature and humidity monitor using a DHT11 sensor and 16x2 LCD display | ✅ Complete |
 | 02 | [RFID Door Lock](02-rfid-door-lock/) | Contactless access control system using an RC522 RFID reader with LED feedback | ✅ Complete |
-| 03 | [RTC Clock Display](03-rtc-clock-display/) | Real-time clock with DS1302 RTC module displaying time and date on a 16x2 LCD | 🔄 In Progress |
+| 03 | [RTC Clock Display](03-rtc-clock-display/) | Real-time clock with DS1302 RTC module displaying time and date on a 16x2 LCD | ✅ Complete |
 
 ## Hardware Requirements
 
