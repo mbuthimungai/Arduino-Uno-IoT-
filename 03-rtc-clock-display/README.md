@@ -30,8 +30,8 @@ A real-time clock display built with an Arduino Uno and the DS1302 RTC module. I
 
 | RTC Pin | Arduino Pin |
 |---------|-------------|
-| CLK | A0 |
-| DAT | A1 |
+| CLK | A1 |
+| DAT | A0 |
 | RST | A2 |
 | VCC | 5V |
 | GND | GND |
