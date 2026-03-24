@@ -1,3 +1,4 @@
 .DS_Store
 *.MOV
+*.HEIC
 compress_video.sh
